@@ -3,9 +3,6 @@ Segmentasi citra adalah proses membagi citra menjadi beberapa bagian atau region
 
 Salah satu algoritma clustering yang populer digunakan untuk segmentasi citra adalah K-Means. K-Means bekerja dengan mengelompokkan piksel-piksel ke dalam sejumlah cluster (kelompok) yang telah ditentukan sebelumnya. Setiap cluster memiliki centroid (pusat) yang mewakili rata-rata dari semua piksel dalam cluster tersebut. Proses iteratif dilakukan untuk meminimalkan jarak antara piksel dan centroid cluster mereka.
 
-Implementasi K-Means untuk Segmentasi Citra
-Berikut adalah contoh implementasi segmentasi citra menggunakan algoritma K-Means dengan bahasa pemrograman Python dan library OpenCV serta scikit-learn.
-
 Hasil:
 Citra Asli: Menampilkan citra sebelum dilakukan segmentasi.
 
